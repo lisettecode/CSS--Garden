@@ -1,0 +1,76 @@
+body {
+	background-image: url(IMG/FondoWeb.jpg);
+    background-size: contain; 
+    box-shadow: rgba(0,0,0,0.2) 10px 10px;
+}
+
+# body {
+	color: darkcyan;
+}
+
+h1 {
+    transition: 3s;
+	font-family: sans-serif;
+	font-weight: bold;
+	text-align: justify;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: palevioletred;
+}
+
+
+h2 {
+    transition: 2s;
+	font-family: Verdana;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: deeppink;
+}
+
+
+h3 {
+    transition-duration: 2s;
+	font-family: monospace;
+	text-align: justify;
+	font-size: 2em;
+	color: purple;
+}
+
+
+img {
+	height: 500px;
+	box-shadow: rgba(0,0,0,0.2) 50px 50px;
+  
+}
+
+
+
+ul{
+	list-style-type: none;
+	margin: -10px;
+}
+
+li {
+	display:inline;
+	border: 2px solid #000000;
+	font-family: Futura, Tahoma, sans-serif;
+	color: #ffffff;
+	padding:5px;
+	border-radius: 5px 5px;
+	background-color: #cc0323
+}
+
+
+p {
+	font-family: Tahoma;
+	font-size: 1em;
+}
+
+
+.div{
+	font-family: tahoma;
+	font-weight: bold;
+	color: #ffffff;
+}
